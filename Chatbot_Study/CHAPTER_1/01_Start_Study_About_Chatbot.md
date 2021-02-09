@@ -20,7 +20,7 @@
 
 <br/>
 
-심심이를 찾아보다 발견한 [`이루다 VS 심심이`]((https://www.youtube.com/watch?v=TETGGUPEVl0))둘이 싸움 붙이는건 아니고 이간질을 하는데 결말이 재밌다 ㅋㅋㅋㅋ
+심심이를 찾아보다 발견한 [이루다 VS 심심이 ]((https://www.youtube.com/watch?v=TETGGUPEVl0))둘이 싸움 붙이는건 아니고 이간질을 하는데 결말이 재밌다 ㅋㅋㅋㅋ
 
 <br/>
 
