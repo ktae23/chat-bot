@@ -59,7 +59,7 @@ K - Digital Training X 멀티캠퍼스 **AI 활용 지능형 서비스 개발** 
 
 ## 목차
 
-### CHAPTER 1 챗봇 입문하기
+### [CHAPTER 1 챗봇 입문하기](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/CHAPTER_1/01_Start_Study_About_Chatbot.md)
 
 ### CHAPTER 2 파이썬 시작하기
 
