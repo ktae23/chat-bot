@@ -27,9 +27,9 @@
 
 저자의 깃허브에서 책에서 사용한 모든 예제와 데이터 다운로드 가능
 
-```shell
-github.com/keiraydev/chatbot
-```
+> [](github.com/keiraydev/chatbot)
+
+---
 
 
 
@@ -52,4 +52,48 @@ K - Digital Training X 멀티캠퍼스 **AI 활용 지능형 서비스 개발** 
 
 
 이 시간을 활용하여 '하고 싶은 공부'의 즐거움으로 하루 공부를 위한 **Warm-Up**을 하려한다.
+
+---
+
+
+
+## 목차
+
+### CHAPTER 1 챗봇 입문하기
+
+### CHAPTER 2 파이썬 시작하기
+
+### CHAPTER 3 토크나이징
+
+### CHAPTER 4 임베딩
+
+### CHAPTER 5 텍스트 유사도
+
+### CHAPTER 6 챗봇 엔진에 필요한 딥러닝 모델
+
+### CHAPTER 7 챗봇 학습툴 만들기
+
+### CHAPTER 8 챗봇 엔진만들기
+
+### CHAPTER 9 챗봇 API 만들기
+
+### CHAPTER 10 카카오톡 챗봇 만들기
+
+### CHAPTER 11 네이버톡톡 챗봇 만들기
+
+---
+
+### APPENDIX A 개발환경 구축
+
+### APPENDIX B AWS에서 챗봇 구동 환경 만들기
+
+---
+
+
+
+목차만 보더라도 지금까지의 어떤 챗봇 책보다 **`실.하.다.`**
+
+
+
+
 
