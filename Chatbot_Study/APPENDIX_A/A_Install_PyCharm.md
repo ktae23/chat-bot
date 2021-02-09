@@ -53,7 +53,8 @@
 ![인터프리터 경로 설정 완료](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_new_projcet_set_interpreter.png)
 
 - 일단 실행 후 설정하려고 보니 알아서 설정이 되어 있다.
-- <br/>
+
+  <br/>
 
 ![디폴트 코드 실행](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_run.png)
 
