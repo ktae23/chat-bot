@@ -12,7 +12,7 @@
 
 <br/>
 
-![](https://github.com/ktae23/Chat-Bot/blob/master/img/simsimi.png)
+![](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/CHAPTER_1/img/simsimi.png)
 
 - 심심이는 2002년에 출시되어 지금은 무려 20년차 챗봇이다.
 
