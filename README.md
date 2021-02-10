@@ -83,7 +83,7 @@ K - Digital Training X 멀티캠퍼스 **AI 활용 지능형 서비스 개발** 
 
 ---
 
-### APPENDIX A 개발환경 구축
+### [APPENDIX A 개발환경 구축](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/A_Set_Development_Environment.md)
 
 ### APPENDIX B AWS에서 챗봇 구동 환경 만들기
 
