@@ -4,9 +4,9 @@
 
 [파이썬 공식 홈페이지](https://www.python.org/)에 접속하여 설치 진행
 
-![파이썬 홈페이지](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/python_download.png){: width="500" height="500"}
+![파이썬 홈페이지](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/python_download.png)
 
-![파이썬 다운로드](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/python_download2.png){: width="500" height="500"}
+![파이썬 다운로드](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/python_download2.png)
 
 
 
@@ -20,7 +20,7 @@ python
 
 
 
-![파이썬 실행 확인](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/python_prompt.png){: width="500" height="500"}
+![파이썬 실행 확인](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/python_prompt.png)
 
 
 
@@ -32,9 +32,9 @@ python
 
 [아나콘다 홈페이지](https://www.anaconda.com/products/individual)에 접속하여 설치 진행
 
-![아나콘다 홈페이지](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/anaconda_download.png){: width="500" height="500"}
+![아나콘다 홈페이지](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/anaconda_download.png)
 
-![아나콘다 다운로드](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/anaconda_download2.png){: width="500" height="500"}
+![아나콘다 다운로드](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/anaconda_download2.png)
 
 
 
@@ -44,7 +44,7 @@ python
 conda list
 ```
 
-![아나콘다 실행 확인](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/anaconda_prompt.png){: width="500" height="500"}
+![아나콘다 실행 확인](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/anaconda_prompt.png)
 
 
 
@@ -314,9 +314,9 @@ conda deactivate
 
 ### 다운로드
 
-![파이참 다운로드](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_download.png){: width="500" height="500"}
+![파이참 다운로드](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_download.png)
 
-![파이참 다운로드](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_download2.png){: width="500" height="500"}
+![파이참 다운로드](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_download2.png)
 
 - 다운로드하는 방법은 매우 간단하다.
 
@@ -324,19 +324,19 @@ conda deactivate
 
 ### 새 프로젝트 생성
 
-![새프로젝트 생성](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_new_projcet.png){: width="500" height="500"}
+![새프로젝트 생성](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_new_projcet.png)
 
 <br/>
 
-![인터프리터 설정](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_new_projcet2.png){: width="500" height="500"}
+![인터프리터 설정](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_new_projcet2.png)
 
 <br/>
 
-![인터프리터 경로 설정](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_new_projcet3.png){: width="500" height="500"}
+![인터프리터 경로 설정](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_new_projcet3.png)
 
 <br/>
 
-![인터프리터 경로 설정 문제](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_new_projcet_problem.png){: width="500" height="500"}
+![인터프리터 경로 설정 문제](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_new_projcet_problem.png)
 
 <br/>
 
@@ -350,12 +350,12 @@ conda deactivate
 
   <br/>
 
-![인터프리터 경로 설정 완료](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_new_projcet_set_interpreter.png){: width="500" height="500"}
+![인터프리터 경로 설정 완료](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_new_projcet_set_interpreter.png)
 
 - 일단 실행 후 설정하려고 보니 알아서 설정이 되어 있다.
 
   <br/>
 
-![디폴트 코드 실행](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_run.png){: width="500" height="500"}
+![디폴트 코드 실행](https://github.com/ktae23/Chat-Bot/blob/master/Chatbot_Study/APPENDIX_A/img/pycharm_run.png)
 
 - 디폴트 코드 실행 화면
