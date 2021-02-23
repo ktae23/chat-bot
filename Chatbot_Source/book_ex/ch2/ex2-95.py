@@ -8,13 +8,6 @@ regions = ['Seoul', 'Pusan']
 # 데이터프레임 객체 생성
 data = pd.DataFrame(temperatures, index=regions, columns=seasons)
 
-# 데이터프레임 객체의 데이터 출력
-print(data)
-print("=" * 50) # 구분선
-print(data.index)
-print(data.columns)
-print(data.values)
-print("=" * 50) # 구분선
 
 # 서울의 봄 온도 데이터 출력
 print(data['Spring']['Seoul'])
