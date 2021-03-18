@@ -63,7 +63,7 @@ K - Digital Training X 멀티캠퍼스 **AI 활용 지능형 서비스 개발** 
 
 ### [CHAPTER 2 파이썬 시작하기](https://github.com/ktae23/Chat-Bot/tree/master/Chatbot_Study/CHAPTER_2)
 
-### CHAPTER 3 토크나이징
+### [CHAPTER 3 토크나이징](https://github.com/ktae23/Chat-Bot/tree/master/Chatbot_Study/CHAPTER_3)
 
 ### CHAPTER 4 임베딩
 
