@@ -1,6 +1,6 @@
 from konlpy.tag import Komoran
 
-komo = Komoran(userdic='./user_dic.tsv')
+komo = Komoran(userdic='./custom.tsv')
 text = "우리 챗봇은 엔엘피를 좋아해."
 pos = komo.pos(text)
 print(pos)
